@@ -1,0 +1,9 @@
+.header {
+    padding: 25px 0;
+}
+
+.header_text {
+    font-weight: 500;
+    font-size: 50px;
+    font-family: 'Inter', sans-serif;
+}
